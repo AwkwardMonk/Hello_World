@@ -1,2 +1,6 @@
 # Hello_World
-First project to learn GitHub features
+
+Hi Humans
+
+I'm creating this project to learn about GitHub's features.
+
